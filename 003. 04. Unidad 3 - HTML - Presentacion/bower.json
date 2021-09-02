@@ -1,0 +1,13 @@
+{
+    "name": "003._04._Unidad_3_-_HTML_-_Presentacion",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
